@@ -8,6 +8,6 @@ I'm heading to UCLA ECE. I build voice agents and AI systems.
 - Top 8, Selected to Demo — America's Next Top AI (Anthropic × Vercel)
 - 2× VEX Robotics World Championship Finalist — Team 3134R
 
-Currently exploring reinforcement learning (RLHF, RLVR) and frontier AI research.
+Currently working through ARENA 3.0 and exploring reinforcement learning for voice. Interested in frontier AI research and open to all opportunities.
 
-[dhruvavutukury.org](https://dhruvavutukury.org) · [LinkedIn](https://linkedin.com/in/dhruva-vutukury-240572210) · vutukurydhruva@g.ucla.edu
+[Website](https://dhruvavutukury.org) · [X](https://x.com/dvutukury) · [LinkedIn](https://linkedin.com/in/dhruva-vutukury-240572210) · [GitHub](https://github.com/Dhruva966) · vutukurydhruva@g.ucla.edu
