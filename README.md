@@ -2,7 +2,7 @@
 
 ---
 
-I'm heading to UCLA ECE. I build voice agents and AI systems.
+I study Electrical and Computer Engineering at UCLA. I build voice agents and AI systems.
 
 ---
 
