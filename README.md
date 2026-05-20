@@ -6,7 +6,7 @@ I study Electrical and Computer Engineering at UCLA. I build voice agents and AI
 
 ---
 
-- 2nd Place, $23K @ Notion Developer Hackathon — Charlie (SnoopyAI), voice agents 4 small businesses (Anthropic · OpenAI · Vercel)
+- 2nd Place, $23K @ Notion Developer Hackathon — SnoopyAI, voice agents for small businesses (Anthropic · OpenAI · Vercel)
 - Best Consumer Product @ OpenAI × Qdrant × Tandem AI Revenue Hackathon — AGI House
 - Best Use of Retell AI @ Build Something AI-Native Hackathon — UC Berkeley
 - Top 8, Selected to Demo — America's Next Top AI (Anthropic × Vercel)
