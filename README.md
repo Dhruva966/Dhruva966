@@ -2,7 +2,7 @@
 
 ---
 
-I study Electrical and Computer Engineering at UCLA. I build voice agents and AI systems.
+I study Computer Engineering at UCLA — long-term, I want to work on frontier AI systems, robotics, and real estate.
 
 ---
 
