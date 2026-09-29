@@ -12,7 +12,7 @@ I study Computer Engineering at UCLA — long-term, I want to work on frontier A
 - Top 8, Selected to Demo — America's Next Top AI (Anthropic × Vercel)
 - 2× VEX Robotics World Championship Finalist — Team 3134R
 
-Currently working through ARENA 3.0 and exploring reinforcement learning for voice. Interested in frontier AI research.
+Currently working through ARENA 3.0 and exploring reinforcement learning for robotics and world models. Interested in frontier AI research.
 
 ---
 
